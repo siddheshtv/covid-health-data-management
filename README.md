@@ -1,7 +1,7 @@
 ## Covid Health Data Management
 Deepbrains.ai Hackathon Project
 
-Author: Siddhesh Kulte
+Author: Siddhesh Kulthe
 
 ## Title
 Patient Health History Record System
